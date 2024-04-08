@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div-1 {
+    font-size: 1rem !important;
+    text-align: justify;
+    position: fixed;
+    margin-top: 10%;
+    margin-left: 12%;
+    padding: 6px;
+    width: 200px;
+    color: aqua;
+    border: 1px solid ;
+    border-radius: 15px;
+}
